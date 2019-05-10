@@ -78,11 +78,7 @@
               </ul>
               <br/>
 
-              <h3>Author</h3>
-              <ul class="post-list">
-                <!-- List authors -->
-                <?php wp_list_authors(); ?>
-              </ul>
+            
             </div>
           </section>
         </div>

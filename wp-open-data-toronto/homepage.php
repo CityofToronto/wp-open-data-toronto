@@ -4,6 +4,10 @@
   <section class="content-area">
     <div class="container">
       <div class="hero" aria-label="Introduction">
+<<<<<<< HEAD
+=======
+
+>>>>>>> 98db245a955139b7e4790b6125b2c957f1762f8a
         <!-- Jumbotron echoes featured image for Homepage -->
         <div class="jumbotron text-center" style="background-image:url('<?php the_post_thumbnail_url(); ?>');">
           <div class="heading">
